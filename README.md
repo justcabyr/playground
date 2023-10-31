@@ -11,10 +11,18 @@ I and A for which side of the line
 o and O for belowe / above line
 zz - centre screen
 
+gg | G - go to the top or buttom
+
 
 :set scrolloff=8
 :set number
 :set relativenumber | :set rnu
 :set norelativenumber
 
-dd6j | V6jdd 
+set tabstop=4 softtabstop=4
+set shiftwidth=4
+set expandtab
+set smartindent
+
+dd6j | V6jd |  
+ctrl n | ctrl p - command scrolling
