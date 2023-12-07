@@ -3,7 +3,8 @@
 h,j,k,l for basic movement.
 w,b for word hopping. Effectively the same as Option/Ctrl + arrow keys
 yy to "copy" a line, called Yank
-dd to delete, and yank, a line
+dd to delete, and yank, a line. 
+u for undo, v for visual mode, V to highlight whole line
 p and P to paste the contents of the implicit register below / above
 Most of the ways to go into insert mode!
 i and a for which side of the cursor
