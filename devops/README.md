@@ -1,5 +1,6 @@
 # DevOps Playground Notes
 
+-Notes for Enterprise DevOps & Cloud Infrastructure
 
 ## Problems
 
@@ -25,3 +26,13 @@
     - Have logs and metrics for each service (Grafana)
     - Ensure engineering teams know how to read logs and troubleshoot
     - Platform Ops: Ownership of platform core services with focus on logical parts, leaving developer related servoces to developers.
+
+
+## GitOps
+
+- Manage infrastructure and application management using Git.
+- If you don't know what you did, you can't do it again.
+- Infrastructure as a code - Tracking and reviewing changes - very important, everything has to be approved
+- Automated deployments, reproducibility and rollbacks, collaboration.
+- Exemplify the problem teams have dealt with and show how GitOps solves it.
+- TLDR - Create a system, and if you want to change the system, change the repo.
